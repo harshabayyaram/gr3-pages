@@ -1,0 +1,17 @@
+.head {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}

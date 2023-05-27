@@ -1,0 +1,18 @@
+body{
+    background-color: #16b5f1;
+}
+
+.mainhead {
+    text-align: center;
+    font-size: 30px;
+    color: #f5fd04;
+}
+
+.subhead {
+    text-align: center;
+    font-size: 15px;
+    color: #f5fd04;
+}
+div{
+    text-align: center;
+}
