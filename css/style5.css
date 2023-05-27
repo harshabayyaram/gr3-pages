@@ -1,0 +1,30 @@
+body{
+    background-color: #bebfe3;
+}
+.para1{
+    text-align: center;
+    color: #2a34f2;
+    font-size: 30px;
+    font-weight: bold;
+}
+.para2{
+    text-align: left;
+    color: #805b61;
+}
+.para3{
+    text-align: right;
+    color: #7066b3;
+}
+.para4{
+    text-align: center;
+    color: #a347b8;
+}
+.para5{
+    text-align: center;
+    color: #a537ef;
+}
+
+.para6{
+    text-align: center;
+    color: #9900ff;
+}

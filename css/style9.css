@@ -1,0 +1,16 @@
+body{
+    color: #0beae0;
+}
+.header{
+    color: #0f1255;
+    font-weight: bold;
+    text-align: center;
+}
+.main{
+    color: #0f1255;
+}
+a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}

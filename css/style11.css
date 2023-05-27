@@ -1,0 +1,21 @@
+.header{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+div{
+    padding: 10px;
+    margin: 10px;
+}
+.first{
+    text-align: right;
+}
+.second{
+    text-align: justify;
+}
+.third{
+    text-align: left;
+}
+.fourth{
+    text-align: center;
+}

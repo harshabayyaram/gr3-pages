@@ -1,0 +1,36 @@
+body{
+    background-color: #d2f3ef;
+}
+
+p{
+    font-size: 30px;
+    color: #59b84c;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    color: #94f4b0;
+    text-align: center;
+}
+
+h2{
+    color: #59b84c;
+    text-align: center;
+}
+h3{
+    color: #acbcd9;
+    text-align: center;
+}
+h4{
+    color: #68d78a;
+    text-align: center;
+}
+h5{
+    color: #ecaa80;
+    text-align: center;
+}
+h6{
+    color: #c8f07a;
+    text-align: center;
+}
